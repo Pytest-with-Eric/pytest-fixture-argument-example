@@ -1,8 +1,8 @@
 # Pytest Fixture With Argument Example
 
-<!-- This repo contains the sample code for the article - [What Are Pytest Fixture Scopes? (How To Choose The Best Scope For Your Test)](https://pytest-with-eric.com/pytest-advanced/pytest-fixture-scope/)
+This repo contains the sample code for the article - [A Step-by-Step Guide to Using Pytest Fixtures with Arguments](https://pytest-with-eric.com/pytest-best-practices/pytest-fixture-with-arguments/)
 
-This project is a simple example of what are Pytest Fixtures scopes and how to use them. -->
+This project is a simple example of what are Pytest Fixtures scopes and how to use them.
 
 # Requirements
 * Python 3.11.4
