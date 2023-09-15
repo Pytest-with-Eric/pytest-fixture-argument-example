@@ -1,6 +1,6 @@
 # Pytest Fixture With Argument Example
 
-This repo contains the sample code for the article - [A Step-by-Step Guide to Using Pytest Fixtures with Arguments](https://pytest-with-eric.com/pytest-best-practices/pytest-fixture-with-arguments/)
+This repo contains the sample code for the article - [A Step-by-Step Guide To Using Pytest Fixtures With Arguments](https://pytest-with-eric.com/pytest-best-practices/pytest-fixture-with-arguments/)
 
 This project is a simple example of what are Pytest Fixtures scopes and how to use them.
 
