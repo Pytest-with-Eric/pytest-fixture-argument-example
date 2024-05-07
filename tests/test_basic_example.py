@@ -12,7 +12,7 @@ def test_simple_data(simple_data):
     assert simple_data == 42
 
 
-Define a fixture with parameters
+# Define a fixture with parameters
 @pytest.fixture(params=[0, 1, 2])
 def param_data(request):
     return request.param
@@ -23,7 +23,7 @@ def test_param_data(param_data):
     assert param_data in [0, 1, 2]
 
 
-Define a fixture that takes an argument
+# Define a fixture that takes an argument
 @pytest.fixture
 def square(request):
     return request.param * 2

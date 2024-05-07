@@ -1,3 +1,1 @@
-pytest==7.4.1
-ruff==v0.0.287
-black==23.7.0
+pytest==8.2.0
