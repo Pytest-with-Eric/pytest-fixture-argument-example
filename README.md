@@ -5,10 +5,10 @@ This repo contains the sample code for the article - [A Step-by-Step Guide To Us
 This project is a simple example of what are Pytest Fixtures scopes and how to use them.
 
 # Requirements
-* Python 3.11.4
+* Python 3.12
 
 Please install the dependencies via the `requirements.txt` file using 
-```commandline
+```shell
 pip install -r requirements.txt
 ```
 If you don't have Pip installed please follow instructions online on how to do it.
